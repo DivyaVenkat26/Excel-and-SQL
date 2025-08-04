@@ -14,7 +14,8 @@ This project explores how customers are responding to a new restaurant menu usin
 
 ## Project Files
 - `restaurant_sql_analysis.pptx`: Final presentation containing SQL queries, result snapshots, and key insights
-
+- `restaurant_data.sql`: SQL queries for all objectives
+- 'Data': CSVs: `menu_items.csv`, `order_details_restaurant.csv`, `data_dictionary.csv`
 ---
 
 ## Project Objectives
