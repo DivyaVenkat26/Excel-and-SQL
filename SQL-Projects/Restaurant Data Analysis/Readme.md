@@ -1,23 +1,23 @@
-# 🍽️ Restaurant SQL Analysis Project
+# Restaurant SQL Analysis Project
 
-## 📌 Objective
+## Objective
 This project explores how customers are responding to a new restaurant menu using structured query analysis. It involves analyzing menu details, order behavior, and linking both datasets for meaningful insights.
 
 ---
 
-## 🗂️ Dataset Files (under `/data/`)
+## Dataset Files (under `/data/`)
 - `menu_items.csv`: Contains details of each item on the new menu (name, category, price, etc.)
 - `order_details.csv`: Transactional data showing which items were ordered and when
 - `data_dictionary.csv`: Describes the schema of the database tables
 
 ---
 
-## 📁 Project Files
+## Project Files
 - `restaurant_sql_analysis.pptx`: Final presentation containing SQL queries, result snapshots, and key insights
 
 ---
 
-## 📊 Project Objectives
+## Project Objectives
 
 ### 🔹 Objective 1: Explore the Menu (`menu_items`)
 - Count total items
@@ -38,14 +38,14 @@ This project explores how customers are responding to a new restaurant menu usin
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Italian dishes are popular but show wide price variation
 - A small set of orders contribute disproportionately to total revenue
 - Some high-priced items are rarely ordered — indicating pricing friction
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - SQL (MySQL)
 - PowerPoint (for presenting insights)
 
