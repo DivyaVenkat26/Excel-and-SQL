@@ -21,7 +21,7 @@ This project leverages historical and 2022 FIFA World Cup datasets to explore pa
 
 ## Project Files
 
-- `world_cup_data.sql` – SQL file with all queries used in the analysis (basic to advanced)
+- `world cup sql.sql` – SQL file with all queries used in the analysis (basic to advanced)
 - `world_cup_data_sql_analysis.pptx` – Final presentation containing SQL queries, result snapshots, and key insights.
 
 ---
