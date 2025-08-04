@@ -21,7 +21,7 @@ All datasets are in CSV format and structured as a relational database.
 ## Project Files
 
 - `pizza_sales_sql_analysis.pptx` – Final presentation containing SQL queries, result snapshots, and key insights.
-
+- `pizza_sales_data.sql`: All SQL queries organized by difficulty
 ---
 
 ## Project Tasks
